@@ -1,1 +1,1 @@
-[![Build status](https://ci.appveyor.com/api/projects/status/9bh3uqead3kq3e9d/branch/master?svg=true)](https://ci.appveyor.com/project/KateYachmeneva/symbols-iterators/branch/master)
+[![Build status](https://ci.appveyor.com/api/projects/status/4vy5uf1prsy59ieu/branch/master?svg=true)](https://ci.appveyor.com/project/KateYachmeneva/sybmols-generators/branch/master)
